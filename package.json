@@ -1,0 +1,15 @@
+{
+	"name": "goit-node-hw-01",
+	"version": "1.0.0",
+	"description": "goit-node-hw-01",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"start:dev": "nodemon index.js"
+	},
+	"author": "Sylwia Stachera",
+	"license": "ISC",
+	"devDependencies": {
+		"nodemon": "^3.0.1"
+	}
+}
