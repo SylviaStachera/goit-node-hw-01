@@ -1,4 +1,4 @@
-# CLI aplikacja
+# CLI aplication
 
 ---
 
