@@ -27,7 +27,7 @@ async function getContactById(contactId) {
 		const findContact = contacts.find((item) => item.id === contactId);
 
 		if (!findContact) {
-			console.log(`Kontakt o id ${contactId} nie został znaleziony.`);
+			console.log(`Kontakt o id "${contactId}" nie został znaleziony.`);
 			return;
 		}
 		console.log("Zaleziony kontakt: ");

@@ -42,12 +42,6 @@
     "phone": "(704) 398-7993"
   },
   {
-    "id": "0AFWJBFrMgbh5eNlU4dkn",
-    "name": "Sylwia",
-    "email": "sylwia@gmail.com",
-    "phone": "7890566"
-  },
-  {
     "id": "o8ij4NLKdCwqwLDbNMSpN",
     "name": "Monika",
     "email": "monika@gmail.com",
@@ -58,5 +52,11 @@
     "name": "Mango",
     "email": "mango@gmail.com",
     "phone": "322-22-22"
+  },
+  {
+    "id": "aJdTflRTilcTUKOuxDKae",
+    "name": "Eliza",
+    "email": "eliza@gmail.com",
+    "phone": "123-456-789"
   }
 ]
