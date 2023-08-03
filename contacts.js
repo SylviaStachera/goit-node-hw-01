@@ -70,3 +70,10 @@ async function addContact(name, email, phone) {
 		console.error("Błąd podczas dodawania kontaktu: ", error.message);
 	}
 }
+
+module.exports = {
+	listContacts,
+	getContactById,
+	removeContact,
+	addContact,
+};
