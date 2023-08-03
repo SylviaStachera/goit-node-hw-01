@@ -6,7 +6,7 @@
 
 ![image](https://github.com/SylviaStachera/goit-node-hw-01/assets/113374423/fe120a4b-8dd4-4d3a-b2b8-902cfa3b1b28)
 
-\*(If the image does not display, click on the link: https://ibb.co/7nY7NKV)
+(If the image does not display, click on the link: https://ibb.co/7nY7NKV)
 
 ## Receiving a conctact by ID
 
